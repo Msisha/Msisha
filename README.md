@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!+;I'm+a+AIML+enthusiast!;Also+have+interest+in+Data+ScienceCoding+dreams+into+reality!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!+;I'm+a+AIML+enthusiast!;Also+interested+in+DataScience;Coding+dreams+into+reality!+🚀" alt="Typing SVG" />
 </p>
 
 ---
@@ -68,7 +68,7 @@
 ---
 
 # 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=souradipta3&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Msisha&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 

@@ -84,10 +84,10 @@
   <a href="mailto:ishitaapd2020@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="mailto:ishitadas@proton.me" target="_blank">
+  <a href="mailto:ishitadas5@proton.me" target="_blank">
     <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
   </a>
-  <a href="mailto:ishitaapd2020@outlook.com" target="_blank">
+  <a href="mailto:dasishita2004@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
 </p>

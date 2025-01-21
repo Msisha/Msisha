@@ -60,7 +60,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Msisha&theme=neon&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Msisha&theme=neon" />
 </p>
 
 <p align="center">
@@ -81,6 +81,14 @@
 
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Msisha&limit=5&theme=neon&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+# ⚡ LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Ishita564?ext=activity" />
 </p>
 
 ---
@@ -108,5 +116,5 @@
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Msisha&icon=5&color=4)](https://visitcount.itsvg.in" />
+  <img src="https://komarev.com/ghpvc/?username=Msisha&label=Profile%20views&color=0e75b6&style=flat" />
 </p>

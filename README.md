@@ -85,13 +85,7 @@
 
 ---
 
-# ⚡ LeetCode Stats
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Ishita564?ext=activity" />
-</p>
-
----
 
 # 🌐 Connect with Me:
 
